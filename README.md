@@ -22,7 +22,7 @@ General directory layout:
 *PLEASE* – When editing tutorial or full source code, please edit the documentation to go along with it within the `website` folder (and vice-versa).
 
 When writing documentation, please use [smart quotes](http://en.wikipedia.org/wiki/Quotation_mark_glyphs). :)
-
+When writing documentation, please use correct indentation!
 
 ## Documentation Build Instructions
 
